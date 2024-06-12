@@ -1,0 +1,84 @@
+html {
+    width: 100%;
+    height: 100%;
+}
+.darkM {
+    border-radius: 30px;
+    border: solid 5px dimgrey;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: dimgrey;
+    color: #fdfdfd;
+    font-size: 13px;
+}
+#theme {
+ text-align: center;
+ display: block;
+ font: italic;
+}
+.lightM {
+    border-radius: 30px;
+    border: solid 5px #e9e5e5;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #f3f0f0;
+    color: #1b1b1b;
+    font-size: 13px;
+}
+.kokl {
+    color: black;
+}
+#kl {
+color: black;
+background-color: yellow;
+margin-left: auto;
+margin-right: auto;
+display: block;
+text-align: center;
+}
+#sp {
+    color: #240eeb;
+    font: bold;
+}
+body {
+    background-color: #d6d6d4;
+}
+#ema {
+    color: #240eeb;
+    font: bold;
+}
+#download {
+    font: bold;
+}
+img {
+    border: solid #5d5df5 5px;
+    border-radius: 20px;
+    width: 275px;
+}
+#dobt {
+    height: 25px;
+    color: #f3f3ee;
+   background-color: #5d5df5;
+   border: solid 5px #5d5df5;
+   font: bold;
+}
+h1 {
+    background-color: #1a1918;
+    color: burlywood;
+}
+.styleM {
+    border-radius: 30px;
+    border: solid 5px #b43939;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: blueviolet;
+    color: #f5f1f1;
+    font-size: 13px;
+}
+#texv {
+    font: bold;
+    font: italic;
+}
